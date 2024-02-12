@@ -34,10 +34,14 @@ This project is structured into three primary components, each focusing on a dif
 
 ## Video Demonstrations
 
-- **Pose Project Demo**: [View the demonstration](https://drive.google.com/file/d/1OY6L9pmZRft8iQtoUFJl_YMyHn7zpmly/view?usp=sharing) showcasing the Body Pose Recognition model.
-- **Image Project Demo**: [View the demonstration](https://drive.google.com/file/d/1pcwI11eIq30nQKyTuRWyuHXe7ePYoa6t/view?usp=sharing) highlighting the ASL Alphabet and African Musical Instruments Sound Recognition models.
+Explore the models in action through our video demonstrations:
 
-These videos provide insights into the practical application and effectiveness of each model within the project.
+- **Pose Project Demo**: [View the demonstration](https://drive.google.com/file/d/1OY6L9pmZRft8iQtoUFJl_YMyHn7zpmly/view?usp=sharing) to see the Body Pose Recognition model at work.
+- **Image Project Demo**: [View the demonstration](https://drive.google.com/file/d/1pcwI11eIq30nQKyTuRWyuHXe7ePYoa6t/view?usp=sharing) for insights into the ASL Alphabet and African Musical Instruments Sound Recognition models.
+- **Audio Project Demo**: [View the demonstration](https://drive.google.com/file/d/1GsGX5g4V5nafjguvTvJGXh87-v2NWA0M/view?usp=sharing) showcasing the capabilities of the African Musical Instruments Sound Recognition model.
+
+These videos provide a comprehensive view of how each model interprets and responds to different modalities, demonstrating the practical applications of the project.
+
 
 ## Usage Instructions
 
