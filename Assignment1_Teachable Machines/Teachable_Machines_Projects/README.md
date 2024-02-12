@@ -1,50 +1,45 @@
 # Multimodal Interaction Project
 
-This repository hosts a collection of machine learning models trained using Teachable Machine to recognize various modalities including American Sign Language (ASL), sounds of African musical instruments, and body poses. These models were developed as part of a course assignment to explore the capabilities of machine learning in recognizing diverse forms of human interaction.
+Welcome to the Multimodal Interaction Project repository! This project showcases a collection of machine learning models developed using Teachable Machine. These models are designed to recognize and interpret various forms of human interaction, including American Sign Language (ASL), sounds from African musical instruments, and distinct body poses. Created as a part of an academic course, this project aims to explore and demonstrate the potential of machine learning in understanding diverse human modalities.
 
-## Overview
+## Project Overview
 
-The project is divided into three main components:
+This project is structured into three primary components, each focusing on a different interaction modality:
 
-1. **ASL Alphabet Recognition**: A model trained to recognize the letters of the American Sign Language alphabet.
-2. **African Musical Instruments Sound Recognition**: This model can identify sounds from three traditional African musical instruments.
-3. **Body Pose Recognition**: Trained to recognize specific body poses indicative of actions such as throwing, jumping, kicking, ducking, powering up, punching, and standing.
+1. **ASL Alphabet Recognition**: Interprets the handshapes of the ASL alphabet.
+2. **African Musical Instruments Sound Recognition**: Identifies sounds from traditional African musical instruments.
+3. **Body Pose Recognition**: Recognizes specific body poses associated with various actions.
 
-## Models
+## Detailed Components
 
-### 1. ASL Alphabet Recognition
-- **Model URL**: [ASL Model](https://teachablemachine.withgoogle.com/models/Brw7mJxkw/)
-- **Description**: This model is capable of recognizing the handshapes corresponding to the 26 letters of the ASL alphabet.
+### ASL Alphabet Recognition
 
-### 2. African Musical Instruments Sound Recognition
-- **Model URL**: [African Instruments Model](https://teachablemachine.withgoogle.com/models/R4ybKNMn3/)
-- **Instruments Recognized**:
-  - Orutu: A single-stringed fiddle.
-  - Nyatiti: A lyre-like stringed instrument.
-  - Ohangla: Traditional drums.
-- **Description**: This sound recognition model identifies distinct sounds produced by the Orutu, Nyatiti, and Ohangla, showcasing the rich musical heritage of Africa.
+- **Model URL**: [Access the ASL Model here](https://teachablemachine.withgoogle.com/models/Brw7mJxkw/)
+- **Functionality**: Capable of recognizing the 26 letters of the ASL alphabet through handshapes.
 
-### 3. Body Pose Recognition
-- **Model URL**: [Body Pose Model](https://teachablemachine.withgoogle.com/models/FWcZxPsc0/)
-- **Poses Recognized**: Throw, Jump, Kick, Duck, Power, Punch, Stand.
-- **Description**: The model is trained to recognize seven different body poses, each representing a unique action, enhancing the interaction between humans and machines through physical movements.
+### African Musical Instruments Sound Recognition
+
+- **Model URL**: [Access the African Instruments Model here](https://teachablemachine.withgoogle.com/models/R4ybKNMn3/)
+- **Instruments Covered**:
+  - Orutu: A single-stringed fiddle known for its unique sound.
+  - Nyatiti: A stringed instrument resembling a lyre, integral to Luo music.
+  - Ohangla: Traditional drums that produce a vibrant rhythmic beat.
+- **Capabilities**: This model distinguishes the distinct sounds produced by the Orutu, Nyatiti, and Ohangla, celebrating Africa's rich musical heritage.
+
+### Body Pose Recognition
+
+- **Model URL**: [Access the Body Pose Model here](https://teachablemachine.withgoogle.com/models/FWcZxPsc0/)
+- **Poses Recognized**: Includes actions like Throwing, Jumping, Kicking, Ducking, Powering Up, Punching, and Standing.
+- **Overview**: Trained to identify seven unique body poses, this model facilitates interactive human-machine interfaces through physical gestures.
 
 ## Video Demonstrations
 
-Check out the video demonstrations of the models in action [here](#). *(You'll need to replace the `#` with the actual link to your video repository or a playlist.)*
+- **Pose Project Demo**: [View the demonstration](https://drive.google.com/file/d/1OY6L9pmZRft8iQtoUFJl_YMyHn7zpmly/view?usp=sharing) showcasing the Body Pose Recognition model.
+- **Image Project Demo**: [View the demonstration](https://drive.google.com/file/d/1pcwI11eIq30nQKyTuRWyuHXe7ePYoa6t/view?usp=sharing) highlighting the ASL Alphabet and African Musical Instruments Sound Recognition models.
 
-## Usage
+These videos provide insights into the practical application and effectiveness of each model within the project.
 
-To use these models, visit the respective model URLs. You will find an interface to test the model live with your webcam for poses and ASL recognition, and a way to upload or record a sound for the African musical instruments recognition model.
+## Usage Instructions
 
-## Contribution
+To interact with the models, visit the provided model URLs. You'll find interfaces to test the ASL and Body Pose Recognition models in real-time using your webcam. For the African Musical Instruments Sound Recognition model, there's an option to upload or directly record sounds for analysis.
 
-Feel free to fork this repository and contribute by enhancing the models or adding new functionalities. For any queries or suggestions, please open an issue in this repository.
-
-## Acknowledgments
-
-This project was developed as part of [Course Name], instructed by [Instructor Name] at [Institution Name]. Special thanks to everyone who contributed to this project and Teachable Machine for providing an accessible platform for machine learning model training.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
