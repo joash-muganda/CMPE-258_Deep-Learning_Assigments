@@ -1,23 +1,20 @@
-# ExploreLLMs
+# Advanced LLM Demonstrations
+
+This repository contains a comprehensive demonstration of advanced techniques using Large Language Models (LLMs), including tokenization, interactions with OpenAI's GPT models, a custom code interpreter, retrieval augmented generation, and fine-tuning LLMs for specific tasks.
 
 ## Overview
 
-ExploreLLMs is a repository dedicated to exploring the capabilities of Large Language Models (LLMs). It contains a variety of resources and examples showcasing how to leverage LLMs for different tasks.
+The project showcases the versatility and power of modern LLMs in processing and understanding human language. Through a series of structured demonstrations, we explore how these models can be leveraged to perform a wide range of NLP tasks, from understanding context in conversational AI to generating context-aware responses and tailoring models to specific applications.
 
-## Contents
+## Features
 
-- **Notebooks**: This directory contains Jupyter notebooks covering various aspects of LLMs, including tokenization, interaction with OpenAI API, custom code interpretation, exploring different LLM architectures, and fine-tuning for specific tasks.
+- **Tokenization with Transformers**: Demonstrates the foundational step of preparing text data for LLMs.
+- **Interacting with OpenAI's GPT Models**: Engages with the latest GPT models to showcase conversational AI capabilities.
+- **Custom Code Interpreter**: Introduces a practical application of LLMs in executing specific coding tasks.
+- **Retrieval Augmented Generation**: Utilizes the Wikipedia API to enrich model responses with real-time information.
+- **Fine-Tuning LLMs**: Details the process of tailoring pre-trained models to specific needs, enhancing their performance on targeted datasets.
 
-## Notebooks Overview
+## Demo
 
-1. **Tokenization**: Demonstrates the tokenization process, breaking down text into individual tokens, and its significance in natural language processing tasks.
-
-2. **OpenAI API Interaction**: Provides examples of interacting with the OpenAI API to generate text, complete prompts, and perform other language-related tasks.
-
-3. **Custom Code Interpreter with OpenAI API**: Explains how to build a custom code interpreter using the capabilities of OpenAI's language models.
-
-4. **Exploring Different LLMs**: Explores the capabilities and nuances of various Large Language Models, understanding their strengths and limitations.
-
-5. **Fine-tuning**: Guides on fine-tuning pre-trained language models for specific tasks to enhance their performance and adaptability.
-
+Experience our interactive demonstration [here](#https://drive.google.com/file/d/1_bB1XCMlaq5A9rmTjcho8WjMocW18HqW/view?usp=sharing). This demo provides a hands-on look at the project's capabilities, illustrating the practical applications of LLMs in various scenarios.
 
