@@ -16,5 +16,6 @@ The project showcases the versatility and power of modern LLMs in processing and
 
 ## Demo
 
-Experience our interactive demonstration [here](#https://drive.google.com/file/d/1_bB1XCMlaq5A9rmTjcho8WjMocW18HqW/view?usp=sharing). This demo provides a hands-on look at the project's capabilities, illustrating the practical applications of LLMs in various scenarios.
+Experience our interactive demonstration [here](https://drive.google.com/file/d/1_bB1XCMlaq5A9rmTjcho8WjMocW18HqW/view?usp=sharing). This demo provides a hands-on look at the project's capabilities, illustrating the practical applications of LLMs in various scenarios.
+
 
