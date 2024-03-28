@@ -15,11 +15,7 @@ In this project, we dive into creating and integrating intelligent agents capabl
 
 For a detailed walkthrough of the notebooks and to see these intelligent agents in action, check out our demo videos:
 
-- **Agent from Scratch Demo**: [View Demo](https://drive.google.com/file/d/1ooNCt6SEGG1jlrj8ok4rWZ_u8XTGY2xk/view?usp=sharing)
-- **Various Agent Types Demo**: [View Demo](https://drive.google.com/file/d/1vleSxb-hppV8c_VoQ_JCrFOKMBWlgkz0/view?usp=sharing)
+- **Agent from Scratch Demo**: [View Demo](https://drive.google.com/file/d/1vleSxb-hppV8c_VoQ_JCrFOKMBWlgkz0/view?usp=sharing)
+- **Various Agent Types Demo**: [View Demo](https://drive.google.com/file/d/1ooNCt6SEGG1jlrj8ok4rWZ_u8XTGY2xk/view?usp=sharing)
 
 
-
-
-
-https://drive.google.com/file/d/1ooNCt6SEGG1jlrj8ok4rWZ_u8XTGY2xk/view?usp=sharing
