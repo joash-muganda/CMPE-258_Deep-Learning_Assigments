@@ -12,26 +12,21 @@ For an in-depth explanation of the project, including a discussion on the design
 
 ## Notebooks
 
-Here is a brief overview of what each notebook covers:
+Here is a brief overview of what each notebook covers, along with links to view them:
 
-1. **NumPy Neural Network**: Starting with the basics, this notebook uses NumPy to manually implement a neural network, offering a foundational understanding of neural computations. [View Notebook](https://example.com/numpy_neural_network)
-2. **TensorFlow Neural Network**: This set of notebooks explores TensorFlow's capabilities, from low-level operations using `tf.Module` to high-level abstractions with `tf.keras.Model`. 
-    - Low-Level TensorFlow [View Notebook](https://example.com/tf_low_level)
-    - TensorFlow with Keras Sequential API [View Notebook](https://example.com/tf_keras_sequential)
-    - TensorFlow Functional API [View Notebook](https://example.com/tf_functional_api)
-3. **PyTorch Neural Network**: Similar to TensorFlow, these notebooks demonstrate neural network implementations in PyTorch, showcasing both manual implementations and the use of `torch.nn.Module`.
-    - Basic PyTorch [View Notebook](https://example.com/pytorch_basic)
-    - PyTorch with `torch.nn` [View Notebook](https://example.com/pytorch_torch_nn)
-    - PyTorch Lightning [View Notebook](https://example.com/pytorch_lightning)
-4. **JAX Neural Network**: JAX notebooks highlight the use of this library for both manual neural network computations and the application of the Flax library for more abstracted network definitions.
-    - Basic JAX [View Notebook](https://example.com/jax_basic)
-    - JAX with Flax [View Notebook](https://example.com/jax_with_flax)
-
-(Additional descriptions and placeholders for the remaining notebooks)
-
-## Getting Started
-
-To dive into the notebooks, clone this repository, and follow the installation instructions in each notebook to set up the required environments. Whether you're a seasoned machine learning practitioner or new to neural networks, these notebooks provide valuable insights into the landscape of neural network programming in Python.
+1. [Neural Network with NumPy](https://github.com/joash-muganda/CMPE-258_Deep-Learning_Assigments/blob/main/Assignment_5_neural%20networks%20using%20numpy%20tensorflow%20pytorch%20jax/Neural_Network_with_Numpy.ipynb)
+2. [TensorFlow Low-Level API](https://github.com/joash-muganda/CMPE-258_Deep-Learning_Assigments/blob/main/Assignment_5_neural%20networks%20using%20numpy%20tensorflow%20pytorch%20jax/Tansoflow_Low_Level_API.ipynb)
+3. [TensorFlow with Built-in Layers Using tf.keras.Sequential](https://github.com/joash-muganda/CMPE-258_Deep-Learning_Assigments/blob/main/Assignment_5_neural%20networks%20using%20numpy%20tensorflow%20pytorch%20jax/TensorFlow_with_Built_in_Layers_Only_Using_tf_keras_Sequential.ipynb)
+4. [TensorFlow's High-Level API with Keras](https://github.com/joash-muganda/CMPE-258_Deep-Learning_Assigments/blob/main/Assignment_5_neural%20networks%20using%20numpy%20tensorflow%20pytorch%20jax/TensorFlow's_high_level_API_keras.ipynb)
+5. [PyTorch Neural Network](https://github.com/joash-muganda/CMPE-258_Deep-Learning_Assigments/blob/main/Assignment_5_neural%20networks%20using%20numpy%20tensorflow%20pytorch%20jax/NN_using_pytorch_builtin_functionalities.ipynb)
+6. [Non-Linear Regression using PyTorch Lightning](https://github.com/joash-muganda/CMPE-258_Deep-Learning_Assigments/blob/main/Assignment_5_neural%20networks%20using%20numpy%20tensorflow%20pytorch%20jax/Non_Linear_Regresson_using_pytorch_lightening.ipynb)
+7. [JAX Low-Level Capabilities](https://github.com/joash-muganda/CMPE-258_Deep-Learning_Assigments/blob/main/Assignment_5_neural%20networks%20using%20numpy%20tensorflow%20pytorch%20jax/JAX_Low_Level_capabilites.ipynb)
+8. [Jax High-Level Capabilities](https://github.com/joash-muganda/CMPE-258_Deep-Learning_Assigments/blob/main/Assignment_5_neural%20networks%20using%20numpy%20tensorflow%20pytorch%20jax/Jax_High_Level_capabilities.ipynb)
+9. [PyTorch from Scratch Deep Neural Network](https://github.com/joash-muganda/CMPE-258_Deep-Learning_Assigments/blob/main/Assignment_5_neural%20networks%20using%20numpy%20tensorflow%20pytorch%20jax/pytorch_from_scratch_deep_neural_network.ipynb)
+10. [TensorFlow Only from Scratch](https://github.com/joash-muganda/CMPE-258_Deep-Learning_Assigments/blob/main/Assignment_5_neural%20networks%20using%20numpy%20tensorflow%20pytorch%20jax/TensorFlow_Only_from_Scratch.ipynb)
+11. [TensorFlow Only from Scratch v2](https://github.com/joash-muganda/CMPE-258_Deep-Learning_Assigments/blob/main/Assignment_5_neural%20networks%20using%20numpy%20tensorflow%20pytorch%20jax/TensorFlow_Only_from_Scratch_v2.ipynb)
+12. [Using TensorFlow's tf.einsum for Neural Networks](https://github.com/joash-muganda/CMPE-258_Deep-Learning_Assigments/blob/main/Assignment_5_neural%20networks%20using%20numpy%20tensorflow%20pytorch%20jax/Using_tf_einsum.ipynb)
+13. [Using TensorFlow Variants: Low-Level API, Functional Model, Built-In](https://github.com/joash-muganda/CMPE-258_Deep-Learning_Assigments/blob/main/Assignment_5_neural%20networks%20using%20numpy%20tensorflow%20pytorch%20jax/using_Tensorflow_various_variants_low_level_api_functional_model_builtin.ipynb)
 
 ## Contributing
 
