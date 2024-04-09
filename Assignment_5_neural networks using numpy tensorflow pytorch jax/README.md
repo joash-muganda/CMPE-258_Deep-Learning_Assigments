@@ -8,7 +8,7 @@ The primary goal of this project is to compare and contrast how basic neural net
 
 ## Video Explanation
 
-For an in-depth explanation of the project, including a discussion on the design choices and insights gained from using each library, please watch the accompanying video presentation: [Watch the video](https://drive.google.com/example_video_link)
+For an in-depth explanation of the project, including a discussion on the design choices and insights gained from using each library, please watch the accompanying video presentation: [Watch the videos](https://drive.google.com/drive/folders/1s6QJ8HpA797qqbnMhIH0muNQIarGZYFJ?usp=sharing)
 
 ## Notebooks
 
