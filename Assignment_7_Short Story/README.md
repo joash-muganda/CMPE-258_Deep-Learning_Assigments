@@ -6,7 +6,7 @@ This repository contains all the deliverables for the short story assignment on 
 
 - [Medium Article](https://medium.com/@joash.muganda/exploring-strategic-thinking-in-advanced-language-models-b73dfacdb641)
 - [Slide Deck](https://www.slideshare.net/slideshow/exploring-strategic-thinking-in-large-language-models/267628689)
-- [YouTube Presentation] (https://youtu.be/M39mobg6O58)
+- [YouTube Presentation](https://youtu.be/M39mobg6O58)
 
 ## Overview
 
