@@ -24,7 +24,7 @@ The slide deck summarizes the key points discussed in the Medium article, design
 
 [Insert Slideshare link here]
 
-## YouTube Presentation
+## Presentation
 
 A 15-25 minute video presentation that walks through the slide deck, explaining the concepts and findings discussed in the article. This presentation aims to make the information accessible and understandable to a broad audience, including those not familiar with the technical aspects of LLMs.
 
@@ -44,6 +44,4 @@ Special thanks to the authors of the survey papers and research studies that pro
 
 Please cite the original papers and this article if you use them in your research or reference them in any academic or professional context.
 
-## Contact
 
-For further information or inquiries, please contact me at [your-email@example.com].
