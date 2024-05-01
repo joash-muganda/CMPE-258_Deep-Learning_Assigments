@@ -1,13 +1,25 @@
 # Advanced Neural Network Techniques
 
-This repository contains a series of Jupyter Notebooks demonstrating advanced neural network techniques using TensorFlow and Keras. The focus is on data augmentation, regularization, and custom deep learning constructs to enhance model performance and understanding.
+This repository contains a series of Jupyter Notebooks demonstrating advanced neural network techniques using TensorFlow and Keras. The focus is on data augmentation, regularization, and custom deep learning constructs to enhance model performance and understanding. Additional demonstrations include video and audio processing to provide comprehensive insights into multimedia data handling.
 
 ## Contents
 
-- `01_Regularization_Techniques.ipynb`: Demonstrates various regularization methods including L1, L2, Dropout, and custom regularization techniques.
-- `02_Callbacks_and_Monitoring.ipynb`: Shows how to use callbacks and TensorBoard for monitoring model training.
-- `03_Hyperparameter_Tuning.ipynb`: Utilizes Keras Tuner to find the optimal model hyperparameters.
-- `04_Data_Augmentation.ipynb`: Covers a variety of data augmentation techniques for different data types (images, video, text, etc.).
-- `05_Advanced_Keras_Constructs.ipynb`: Demonstrates the use of advanced Keras constructs including custom layers, models, and training loops.
+- **Regularization Techniques**
+  - [View Notebook](https://colab.research.google.com/drive/1b_Jl6t-ACmrYx4qpHoCafQY4dVLUQ7I_?usp=sharing): Demonstrates various regularization methods including L1, L2, Dropout, and custom regularization techniques.
+  
+- **Custom Components in Keras**
+  - [View Notebook](https://colab.research.google.com/drive/1d2Pv2krPi7vvGR2K2vKa9kkdpgo4fOhM?usp=sharing): Shows how to use custom components in Keras to enhance model functionality.
+  
+- **Advanced Model Architectures and Training Techniques**
+  - [View Notebook](https://colab.research.google.com/drive/1CbYIWWBUXSU89LTBVinMFDb-n7cOSTZY?usp=sharing): Demonstrates the use of advanced Keras constructs including custom layers, models, and training loops.
+  
+- **Initialization and Normalization Advanced Techniques**
+  - [View Notebook](https://colab.research.google.com/drive/1A2gYfQfnhlDZxRhkpu7uhoogftA7E4sd?usp=sharing): Explores various initialization and normalization techniques to optimize neural network performance.
+  
+- **Data Augmentation for Different Data Types**
+  - [View Notebook](https://colab.research.google.com/drive/1n4oOZrq2tLvXlm2cfjHJ4-h5eBhHrQ3h?usp=sharing): Covers a variety of data augmentation techniques for different data types including images, video, text, and more.
 
+## Demonstration Videos
+- [Watch Demos](https://www.yourwebsite.com/demo-videos): Link to a folder containing demonstration videos for various techniques.
 
+Feel free to explore and use these notebooks for educational and research purposes. Ensure you have access to Google Colab to interact with these notebooks directly.
