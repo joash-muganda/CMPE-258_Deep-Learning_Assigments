@@ -19,9 +19,4 @@ This repository showcases a series of Jupyter notebooks demonstrating the capabi
 
 A comprehensive video walkthrough of these notebooks is available [here](link-to-video). This video provides a detailed guide through each notebook, explaining the methodologies and results.
 
-## Installation
 
-To run these notebooks, you will need to install AutoGluon. You can install AutoGluon using the following command:
-
-```bash
-pip install autogluon
