@@ -17,6 +17,6 @@ This repository showcases a series of Jupyter notebooks demonstrating the capabi
 
 ## Video Walkthrough
 
-A comprehensive video walkthrough of these notebooks is available [here](link-to-video). This video provides a detailed guide through each notebook, explaining the methodologies and results.
+A comprehensive video walkthrough of these notebooks is available [here](https://drive.google.com/drive/folders/1j63YMm--gYY-wHhKoQZUuJZUOBbnwiiP?usp=sharing). This video provides a detailed guide through each notebook, explaining the methodologies and results.
 
 
